@@ -1,0 +1,12 @@
+﻿  Project_1_v4.2.cpp
+C:\Users\firfg\source\repos\CS_330_Project_v4\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(303,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(487,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(488,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(492,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(493,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(495,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(496,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(503,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\firfg\source\repos\CS_330_Project_v4\Project_1_v4.2.cpp(584,21): warning C4018: '<': signed/unsigned mismatch
+  CS_330_Project_v4.vcxproj -> C:\Users\firfg\source\repos\CS_330_Project_v4\Debug\CS_330_Project_v4.exe
