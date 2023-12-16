@@ -1,6 +1,6 @@
 # CS-330
 
-1.	How do I approach designing software?
+1.	How do I approach designing and developing software? 
 	My approach to designing software, I begin by analyzing the requirements set forth in the project
 	requirements. Once I review the requirements, I break down what needs to be completed into smaller
 	sections so I can develop code in smaller chunks. This allows me to test each section as I complete it.
